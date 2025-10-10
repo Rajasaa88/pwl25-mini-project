@@ -1,0 +1,28 @@
+{
+  "name": "pwl25-mini-project",
+  "version": "1.0.0",
+  "description": "Mini Project UTS - CRUD Music API dengan Express.js dan MySQL",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajasaa88/pwl25-mini-project.git"
+  },
+  "keywords": ["express", "mysql", "crud", "music-api"],
+  "author": "Raja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajasaa88/pwl25-mini-project/issues"
+  },
+  "homepage": "https://github.com/Rajasaa88/pwl25-mini-project#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1",
+    "mysql2": "^3.15.2"
+  }
+}
