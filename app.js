@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
-import musicRoutes from "./routes/musicRoutes.js";
+import musicRoutes from "./routes/musicRoute.js";
 import errorHandler from "./middleware/errorHandler.js";
 
 dotenv.config();
